@@ -1,0 +1,16 @@
+- Title:
+
+New developments of the Dr. Scratch platform to support educators and learners.
+
+- Description (max 300 words):
+
+Dr. Scratch is a free/libre/open source web tool that analyses Scratch projects to offer feedback to educators and learners by assigning a computational thinking score to the projects. This computational thinking score, which ranges from 0 to 21 points, is based on the degree of development of different dimensions of the computational thinking competence, specifically abstraction and problem decomposition, logical thinking, synchronization, parallelism, algorithmic notions of flow control, user interactivity and data representation, which are evaluated by inspecting the source code of the analysed project. Dr. Scratch also detects certain bad habits of programming or potential errors that are commonly found in the projects of the Scratch repository, such as non-significant sprite names, repetition of code, code that is never executed and the incorrect initialization of object attributes. 
+
+For each of the bad programming habits detected in the code and for each of the computational thinking dimensions where there is room for improvement, the tool provides links to information that can be used to improve the projects. For example, if a project includes repeated code, Dr. Scratch provides a link to sample source code and an explanation of why this situation should be avoided and how users could improve their project by developing their own blocks.
+
+The goal of this demo is that everyone can try out the new features of the tool by analizing their own Scratch projects or those of their students.
+
+
+- Summary, to be included in the conference program (max 75 words):
+
+Dr. Scratch is a free/libre/open source web tool that analyses Scratch projects to offer feedback to educators and learners by assigning a computational thinking score to the projects. The tool also detects certain bad habits of programming that are commonly found in the projects of the Scratch repository. During this demo, everyone will have the opportunity to try out the new features of the tool by analyzing their own Scratch projects.

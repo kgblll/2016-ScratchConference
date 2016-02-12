@@ -1,0 +1,17 @@
+- Title:
+Supporting teachers in the assessment of Computational Thinking skills with Dr. Scratch
+
+
+- Description (max 300 words):
+
+Dr. Scratch platform is a free/libre/open source web application that allows to analyze Scratch projects to assess the development of Computational Thinking skills. Dr. Scratch is being used by teachers and organizations from all over the world as a support tool in the evaluation tasks. For instance, the tool can be used to detect students that do not use certain instructions in their projects, such as logic operations or clones, so teachers can prepare specific tasks to help them understand their importance.
+
+This is what Paul Herring (St Peters Lutheran College, Australia) says about how he uses Dr. Scratch in his lessons: “Basically, I really like the opportunity to give the students a totally subjective (and external to their teacher) perspective on their coding and where it does and doesn’t quite match up. I also appreciate the reduction in my time in analysis and marking, including trying to find where their code might be in error if it is not doing what it should. I normally still need to mark to see if they have met the criteria I have set, but Dr. Scratch is a huge help still!”
+
+During the ignite talk, besides presenting the most significant latest developments of the Dr. Scratch platform, we will show this and other testimonials of teachers from around the world who are using Dr. Scratch as a support tool in the evaluation tasks.
+
+
+- Summary, to be included in the conference program (max 75 words):
+
+This ignite talk will present the latest developments of the Dr. Scratch platform, which is a free/libre/open source web application that allows to analyze Scratch projects to assess the development of Computational Thinking skills. During the talk we will also show testimonials of teachers from around the world who are using Dr. Scratch as a support tool in the evaluation tasks.
+
